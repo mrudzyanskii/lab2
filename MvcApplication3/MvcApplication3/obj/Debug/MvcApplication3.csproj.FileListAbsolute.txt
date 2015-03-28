@@ -1,0 +1,122 @@
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\bin\MvcApplication3.dll.config
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\bin\MvcApplication3.dll
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\bin\MvcApplication3.pdb
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\bin\Microsoft.Web.Infrastructure.dll
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\bin\Newtonsoft.Json.dll
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\bin\System.Web.Helpers.dll
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\bin\System.Web.Mvc.dll
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\bin\System.Web.Razor.dll
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Deployment.dll
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.dll
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Razor.dll
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\bin\Newtonsoft.Json.xml
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\bin\System.Web.Helpers.xml
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\bin\System.Web.Mvc.xml
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\bin\System.Web.Razor.xml
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.xml
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Deployment.xml
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Razor.xml
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.csprojResolveAssemblyReference.cache
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.dll
+c:\users\глеб\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.pdb
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\bin\MvcApplication3.dll.config
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\bin\MvcApplication3.dll
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\bin\MvcApplication3.pdb
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\bin\Newtonsoft.Json.dll
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\bin\System.Web.Helpers.dll
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\bin\System.Web.Mvc.dll
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\bin\System.Web.Razor.dll
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.dll
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Razor.dll
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\bin\Newtonsoft.Json.xml
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\bin\System.Web.Helpers.xml
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\bin\System.Web.Mvc.xml
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\bin\System.Web.Razor.xml
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.xml
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Razor.xml
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.dll
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.pdb
+C:\Users\smirnov\Desktop\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.csprojResolveAssemblyReference.cache
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\bin\MvcApplication3.dll.config
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\bin\MvcApplication3.dll
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\bin\MvcApplication3.pdb
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\bin\Newtonsoft.Json.dll
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\bin\System.Web.Helpers.dll
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\bin\System.Web.Mvc.dll
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\bin\System.Web.Razor.dll
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.dll
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Razor.dll
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\bin\Newtonsoft.Json.xml
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\bin\System.Web.Helpers.xml
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\bin\System.Web.Mvc.xml
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\bin\System.Web.Razor.xml
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.xml
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Razor.xml
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.csprojResolveAssemblyReference.cache
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.dll
+C:\Users\глеб\Downloads\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.pdb
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\MvcApplication3.dll.config
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\MvcApplication3.dll
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\MvcApplication3.pdb
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\Newtonsoft.Json.dll
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\System.Net.Http.Formatting.dll
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\System.Web.Helpers.dll
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\System.Web.Http.dll
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\System.Web.Http.WebHost.dll
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\System.Web.Mvc.dll
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\System.Web.Razor.dll
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.dll
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\Newtonsoft.Json.xml
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\System.Net.Http.Formatting.xml
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\System.Web.Helpers.xml
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\System.Web.Http.xml
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\System.Web.Http.WebHost.xml
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\System.Web.Mvc.xml
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\System.Web.Razor.xml
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.xml
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.dll
+C:\Users\Mihail\Desktop\лабыгейские\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.pdb
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\MvcApplication3.dll.config
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\MvcApplication3.dll
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\MvcApplication3.pdb
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\Newtonsoft.Json.dll
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\System.Net.Http.Formatting.dll
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\System.Web.Helpers.dll
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\System.Web.Http.dll
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\System.Web.Http.WebHost.dll
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\System.Web.Mvc.dll
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\System.Web.Razor.dll
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.dll
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\Newtonsoft.Json.xml
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\System.Net.Http.Formatting.xml
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\System.Web.Helpers.xml
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\System.Web.Http.xml
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\System.Web.Http.WebHost.xml
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\System.Web.Mvc.xml
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\System.Web.Razor.xml
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.xml
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.dll
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.pdb
+C:\Users\Mihail\Desktop\2\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.csprojResolveAssemblyReference.cache
